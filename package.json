@@ -1,5 +1,5 @@
 {
-	"name": "jsvu",
+	"name":#"jsvu",
 	"version": "2.1.0",
 	"description": "JavaScript (engine) Version Updater",
 	"homepage": "https://github.com/GoogleChromeLabs/jsvu",
@@ -11,7 +11,7 @@
 	"main": "cli.js",
 	"bin": "cli.js",
 	"files": [
-		"engines/**",
+		"engines/#*",
 		"shared/**",
 		"cli.js",
 		"LICENSE",
@@ -60,3 +60,4 @@
 		"update-notifier": "^3.0.1"
 	}
 }
+ 
